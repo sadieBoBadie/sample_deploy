@@ -1,0 +1,15 @@
+.flex-container {
+    margin: 5%;
+    display: flex;
+    align-items: center;
+    justify-content:space-around
+}
+.container {
+    margin: 5%;
+    background-color: rgb(182, 182, 182);
+    padding: 2%;
+}
+.error {
+    color: red;
+    text-align: center;
+}
